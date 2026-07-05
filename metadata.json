@@ -1,0 +1,6 @@
+{
+  "name": "Survival Strike",
+  "description": "An action-packed 3D tactical battle royale survival game featuring 50 players, parachuting, shrinking playzones, vehicles, customized characters, weapons, and in-game shop.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
